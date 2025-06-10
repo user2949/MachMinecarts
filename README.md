@@ -9,7 +9,3 @@ Although everything might seem cool, there is a bunch of bugs, here are the foll
 
 # Performance Issues
 This is a major part of the data-pack, if you do not have a strong enough computer to load the chunks, even if it's already preloaded, it will pretty much just teleport you to each chunk because you are going way too fast and your computer is way behind to load the chunks back after it's preloaded, you can check it with the video if you see closely. If you want the full experience, you need to get a **new computer**
-
-# Video
-If you want to see the data-pack in action, you can see the following, it runs in 1.20.1, way before 24w33a where the **"/gamerule minecartMaxSpeed"** was added
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/y0dP1TdMCuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
